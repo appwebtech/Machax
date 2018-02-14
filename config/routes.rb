@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
 
-  devise_for :users
-  get 'home/index'
+  devise_for :users, controllers: { josembi: 'josembi' }
 
-	root to: "home#index"
+	root "home#index"
 end

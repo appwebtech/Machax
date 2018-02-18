@@ -1,4 +1,4 @@
-class RegistrationsController < Devise::JosembiController 
+class RegistrationsController < Devise::RegistrationsController 
 
 
 

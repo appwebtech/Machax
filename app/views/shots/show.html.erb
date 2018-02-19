@@ -58,7 +58,7 @@
 					</div>
 					<div class="panel-block comments data">
 						<span class="icon"><i class="fa fa-comment"></i></span>
-						<%#= pluralize(@shot.comments.count, 'Comment') %>
+						<%= pluralize(@shot.comments.count, 'Comment') %>
 					</div>
 					<div class="panel-block likes data">
 						<%# if user_signed_in? %>

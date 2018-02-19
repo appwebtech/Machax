@@ -1,0 +1,18 @@
+<% if !user_signed_in? %>
+	<section class="hero is-dark">
+		<div class="hero-body">
+			<div class="container has-text-centered">
+				<h1 class="title is-size-5">
+					What are you working on? </h1>
+					
+				<h1 class="has-text-grey-light"> Machax Tech Hub is where tech ideas converge...
+				</h1>
+
+
+				<div class="content">
+					<%= link_to "Login", new_user_session_path, class: "button is-primary" %>
+				</div>
+			</div>
+		</div>
+	</section>
+<% end %>

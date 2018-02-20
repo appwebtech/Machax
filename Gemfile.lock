@@ -272,7 +272,7 @@ DEPENDENCIES
   bulma-rails (~> 0.6.1)
   byebug
   capybara (~> 2.13)
-  carrierwave (~> 1.2, >= 1.2.1)
+  carrierwave (~> 1.0)
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   fog-aws

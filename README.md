@@ -1,6 +1,6 @@
 <div align="center">
 <h1><a href="https://appwebtech-machax.herokuapp.com/">Machax Tech Hub</a></h1> 
-<h2>Software Development Documentation</h2>
+<h1>Software Development Documentation</h1>
   
 
 <div align="center">
@@ -12,7 +12,7 @@
 </sub>
 </div>
 
-<h3>Table of Contents</h3>
+<h2>Table of Contents</h2>
 
 - [Introduction](#introduction)
 - [CORS](#cors)
@@ -30,11 +30,11 @@
   - [Simple Form](#simple-form)
     - [Installation](#installation)
   - [MiniMagick](#minimagick)
-    - [Why?](#why?)
+    - [Why](#why)
     - [Solution](#solution)
   - [Impressionist](#impressionist)
-    - [What does this thing do?](#what-does-this-thing-do?)
-    - [What about bots?](#what-about-bots?)
+    - [What does this thing do](#what-does-this-thing-do)
+    - [What about bots](#what-about-bots)
     - [Installation](#installation)
   - [jQuery-rails](#jquery-rails)
     - [Versions](#versions)

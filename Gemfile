@@ -48,7 +48,7 @@ end
 gem "bulma-rails", "~> 0.6.1"
 gem 'devise', '~> 4.7'
 gem 'carrierwave', '~> 1.0'
-gem 'simple_form', '~> 3.5'
+gem 'simple_form', '~> 5.0'
 gem "mini_magick"
 gem 'impressionist', '~> 1.6'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'

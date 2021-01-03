@@ -46,7 +46,7 @@ end
 
 # My gems (production)
 gem "bulma-rails", "~> 0.6.1"
-gem 'devise', '~> 4.3'
+gem 'devise', '~> 4.7'
 gem 'carrierwave', '~> 1.0'
 gem 'simple_form', '~> 3.5'
 gem "mini_magick"
